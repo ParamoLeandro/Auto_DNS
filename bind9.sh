@@ -1,4 +1,4 @@
-#!/bin/bashi
+#!/bin/bash
 
 #instalamos el servicio de bind9
 yum install bind  bind-utils
